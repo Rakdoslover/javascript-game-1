@@ -65,4 +65,4 @@ function checkWinner(){
     else if (opponent == "SPEAR") {
         return (player == "SHIELD") ? "The spear is no match for the mighty shield!" : "You are stricken down";
     }
-}
+};
