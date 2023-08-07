@@ -36,6 +36,11 @@ Spear beats Arcane.
   - No errors detected.
 
 ## Deployment
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+    - In the GitHub repository associated with the Stricken Down!-repository, navigate to the Settings tab.
+    - From the branch section drop-down menu, select the Main Branch and press save.
+    - Once the Main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
+The live link can be found here: [SITE](https://rakdoslover.github.io/javascript-game-1/)
 
 ## Sources
