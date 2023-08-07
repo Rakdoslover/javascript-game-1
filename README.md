@@ -1,5 +1,7 @@
 # Stricken Down!
 
+## [Live Site](https://rakdoslover.github.io/javascript-game-1/)
+
 ## Purpose of the Site
 
 My mission was to create a simple site with a "rock, paper, scissors" like game
@@ -21,7 +23,13 @@ Spear beats Arcane.
 
 
 ### Validator Testing
+#### HTML
+- [W3C HTML Validator](https://validator.w3.org/)
+  - No errors detected.
 
+#### CSS
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri)
+  - 
 
 ## Deployment
 
