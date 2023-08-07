@@ -3,7 +3,7 @@
 body {
     background: fixed;
     background-size: cover;
-    background-image: url("/assets/images/the-battlefield1.jpg");
+    background-color: darkgreen;
     width: 100%;
     height: calc(100vh - 164px);
     font-family: 'Lato', sans-serif;

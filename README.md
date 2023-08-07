@@ -16,10 +16,14 @@ Spear beats Arcane.
 
 ## Screenshots of the Site
 
+
 ## Testing
+
 
 ### Validator Testing
 
+
 ## Deployment
+
 
 ## Sources
