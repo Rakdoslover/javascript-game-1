@@ -29,7 +29,11 @@ Spear beats Arcane.
 
 #### CSS
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri)
-  - 
+  - No errors detected.
+
+#### Javascript
+- [JSHint](https://jshint.com/)
+  - No errors detected.
 
 ## Deployment
 

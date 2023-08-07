@@ -43,7 +43,7 @@ function opponentTurn(){
             opponent = "SPEAR";
             break;
     }
-};
+}
 
 // The check winner function
 function checkWinner(){
@@ -51,7 +51,7 @@ function checkWinner(){
         return "You are equally matched!";
     }
     else if (opponent == "SWORD"){
-        return (player == "CANNON") ? "Your opponent simple blows up!" : "You are stricken down"
+        return (player == "CANNON") ? "Your opponent simple blows up!" : "You are stricken down";
     }
     else if (opponent == "SHIELD") {
         return (player == "SWORD") ? "You manage to cut your opponent down!" : "You are stricken down";
@@ -65,4 +65,4 @@ function checkWinner(){
     else if (opponent == "SPEAR") {
         return (player == "SHIELD") ? "The spear is no match for the mighty shield!" : "You are stricken down";
     }
-};
+}
