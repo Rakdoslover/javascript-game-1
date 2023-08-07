@@ -1,13 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=REM&display=swap');
 
 body {
-    background: url(/assets/images/the-battlefield1.jpg) no-repeat center fixed;
+    background: fixed;
     background-size: cover;
+    background-image: url("/assets/images/the-battlefield1.jpg");
     width: 100%;
     height: calc(100vh - 164px);
     font-family: 'Lato', sans-serif;
     font-size: large;
     color: azure;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }
 
 #main-title {
@@ -20,6 +26,7 @@ body {
 .gameDiv{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     align-content: center;
