@@ -18,9 +18,26 @@ Spear beats Arcane.
 
 ## Screenshots of the Site
 
+### Main page
+Here is the main page of the Stricken Down game.
+![Main page](/assets/images/home-page.jpg)
+
+### Main page 320px
+Here is the main page of the Stricken Down game scaled down into 320px.
+![Main page 320px](/assets/images/home-page-320.jpg)
 
 ## Testing
 
+**Testing** | **Action** | **Expectation** | **Result**
+----------|----------|----------|----------
+Main page | Size to 320px using Chrome Dev Tools | Elements look good @ 320px | Works as expected
+Main Page | Size to 1920px using Chrome Dev Tools | Elements look good @ 1920px | Works as expected
+Title link | Pressing, both in 320px and 1920px | Takes user back to reseted main page | Works as expected
+Sword button | Pressing, both in 320px and 1920px | Gives game feedback, win/lose/draw | Works as expected
+Shield button | Pressing, both in 320px and 1920px | Gives game feedback, win/lose/draw | Works as expected
+Arcane button | Pressing, both in 320px and 1920px | Gives game feedback, win/lose/draw | Works as expected
+Cannon button | Pressing, both in 320px and 1920px | Gives game feedback, win/lose/draw | Works as expected
+Spear button | Pressing, both in 320px and 1920px | Gives game feedback, win/lose/draw | Works as expected
 
 ### Validator Testing
 #### HTML
@@ -48,4 +65,12 @@ The live link can be found here: [SITE](https://rakdoslover.github.io/javascript
 Went back over most of the lessons on the Javascript and some things for the HTMl/CSS
 to get through the main content of the site.
 
-### 
+### Youtube Tutorials
+Watched a couple of youtube videos to get some tips on how to start off the javescript
+functions. Primarily watched [this](https://www.youtube.com/watch?v=RwFeg0cEZvQ&ab_channel=CodewithAniaKub%C3%B3w)
+and [this](https://www.youtube.com/watch?v=n1_vHArDBRA&ab_channel=BroCode) one.
+
+### [W3Schools.com](https://www.w3schools.com/js/default.asp)
+Found a couple of useful tips regarding flexboxing, background CSS and Javascript
+funtions that I didn't get right the first time around.
+
