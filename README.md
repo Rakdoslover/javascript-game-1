@@ -1,4 +1,4 @@
-# Stricken Down!
+# Stricken Down
 
 ## [Live Site](https://rakdoslover.github.io/javascript-game-1/)
 
@@ -44,3 +44,8 @@ Spear beats Arcane.
 The live link can be found here: [SITE](https://rakdoslover.github.io/javascript-game-1/)
 
 ## Sources
+### Code Institutes Lessons
+Went back over most of the lessons on the Javascript and some things for the HTMl/CSS
+to get through the main content of the site.
+
+### 

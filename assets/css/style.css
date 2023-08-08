@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=REM&display=swap');
 
 body {
-    background: fixed;
     background-size: cover;
     background-color: darkgreen;
     width: 100%;
@@ -31,6 +30,17 @@ a {
     align-items: center;
     align-content: center;
     margin: 2rem;
+}
+
+.textDiv {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    margin: 2rem;
+    text-align: center;
 }
 
 .gameText {
