@@ -73,4 +73,3 @@ and [this](https://www.youtube.com/watch?v=n1_vHArDBRA&ab_channel=BroCode) one.
 ### [W3Schools.com](https://www.w3schools.com/js/default.asp)
 Found a couple of useful tips regarding flexboxing, background CSS and Javascript
 funtions that I didn't get right the first time around.
-
