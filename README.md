@@ -64,7 +64,7 @@ The live link can be found here: [SITE](https://rakdoslover.github.io/javascript
 ## Sources
 ### Code Institutes Lessons
 Went back over most of the lessons on the Javascript and some things for the HTMl/CSS
-to get through the main content of the site.
+to get through the main content of the site. I've also used the template made by CI published on Github as a layout, can be found here [GitHub](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode).
 
 ### Youtube Tutorials
 Watched a couple of youtube videos to get some tips on how to start off the javescript
