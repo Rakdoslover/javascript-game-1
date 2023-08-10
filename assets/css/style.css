@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=REM&display=swap');
 
+/* Overall content styling */
 body {
     background-size: cover;
     background-color: darkgreen;
@@ -16,6 +17,7 @@ a {
     color: inherit;
 }
 
+/* Styling for Title */
 #main-title {
     text-align: center;
     text-decoration: underline;
@@ -23,7 +25,8 @@ a {
     font-size: xx-large;
 }
 
-.gameDiv{
+/* Styling for the game */
+.gameDiv {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -62,6 +65,7 @@ a {
     box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 
+/* Some styling for the footer */
 footer {
     position: fixed;
     left: 0;
