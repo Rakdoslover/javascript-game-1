@@ -1,5 +1,6 @@
 # Stricken Down
 
+![Responsiveness](/assets/images/responsive.jpg)
 ## [Live Site](https://rakdoslover.github.io/javascript-game-1/)
 
 ## Purpose of the Site
